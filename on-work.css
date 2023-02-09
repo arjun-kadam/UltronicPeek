@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    text-decoration:none;
+}
+div{
+    text-align: center;
+    height: 100%;
+    
+}
+div h2{
+    font-size: 50px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+div a{
+    display: inline-block;
+    padding: 10px;
+    border: 2px solid #000;
+    color: black;
+    font-size: large;
+}
+div span{
+    color: #ff0000;
+}
